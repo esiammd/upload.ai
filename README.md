@@ -3,7 +3,7 @@
 
 ## 💻 Proyecto
 
-- Una herramienta que centraliza el upload de nuevos vídeos de YouTube, agregando una capa de inteligencia artificial que crea automáticamente títulos llamativos y descripciones con buena indexación y hashtags.
+- Una aplicación que posibilita realizar upload de vídeos y agrega una capa de inteligencia artificial que crea automáticamente títulos llamativos, descripciones con buena indexación y hashtags.
 
 <p align="center">
     <img src=".github/upload-ai.png" alt="upload.ai" width="75%" />

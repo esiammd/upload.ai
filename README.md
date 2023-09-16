@@ -47,5 +47,5 @@
 ## 🎬 Vídeo de demostración
 
 <p align="center">
-    <img src=".github/upload-ai-1.gif" alt="vídeo de demostración" width="75%" />
+    <img src=".github/upload-ai.gif" alt="vídeo de demostración" width="75%" />
 </p>

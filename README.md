@@ -37,5 +37,5 @@
 - [ai](https://github.com/vercel/ai)
 
 <p align="center">
-  Desarollado con 💜 en el NLW IA de Rocketseat
+  Desarollado con 💜 en el evento NLW IA de Rocketseat
 </p>

@@ -9,7 +9,7 @@ export function Header() {
 
             <div className="flex items-center gap-3">
             <span className="text-sm text-muted-foreground">
-                Desarollado con 💜 en el NLW IA de Rocketseat
+                Desarollado con 💜 en el evento NLW IA de Rocketseat
             </span>
 
             <Separator orientation="vertical" className="h-6" />

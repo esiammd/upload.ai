@@ -14,7 +14,11 @@ export function Header() {
 
             <Separator orientation="vertical" className="h-6" />
 
-            <Button variant="outline" className="hover:bg-primary/10 hover:border-primary">
+            <Button
+                variant="outline"
+                className="hover:bg-primary/10 hover:border-primary"
+                onClick={() => window.open("https://github.com/esiammd/upload.ai", "_blank")}
+            >
                 <Github className="w-4 h-4 mr-2" />
                 Github
             </Button>

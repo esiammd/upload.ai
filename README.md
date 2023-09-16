@@ -42,7 +42,8 @@
 5. Rellene las variables presentes en el archivo `.env`
 6. Ejecute el servidor con el comando `npm run dev` o `yarn dev`
 7. Abra la carpeta de la web: `cd upload-ai-web`
-8. Ejecute la web con el comando `npm run dev` o `yarn dev`
+8. Ejecute en el terminal el comando: `npm install` o `yarn`
+9. Ejecute la web con el comando `npm run dev` o `yarn dev`
 
 ## 🎬 Vídeo de demostración
 
